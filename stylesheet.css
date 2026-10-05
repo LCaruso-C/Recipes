@@ -20,6 +20,14 @@ img {
     margin-left: auto;
 }
 
+a {
+    color: darkred;
+}
+
+.box ul {
+    padding-left: 20px;
+}
+
 ul {
     background-color: antiquewhite;
     color:darkred;
@@ -27,3 +35,4 @@ ul {
     border: 1px solid black;
     text-align: left;
 }
+ 
